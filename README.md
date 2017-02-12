@@ -1,0 +1,2 @@
+# analyzeMongoDB
+analyze MongoDB scheme
